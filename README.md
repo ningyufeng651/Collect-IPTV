@@ -12,7 +12,7 @@
 详细免责声明请参阅 [`DISCLAIMER.md`](./DISCLAIMER.md)。
 ---
 ## 📺️TV station list
-https://zilong7728.github.io/Collect-IPTV/
+https://ningyufeng651.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
 <!-- Last Run Time --> 2026-08-31 11:40:12 CST
 ## 🔗Generated File Link
