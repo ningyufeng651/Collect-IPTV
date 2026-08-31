@@ -5,6 +5,8 @@ on:
   workflow_dispatch: 
 env:
   TZ: Asia/Shanghai
+permissions:
+ contents: write
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
