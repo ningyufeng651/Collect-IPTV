@@ -14,7 +14,7 @@
 ## 📺️TV station list
 https://ningyufeng651.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
-<!-- Last Run Time --> 2026-09-13 05:57:56 CST
+<!-- Last Run Time --> 2026-09-13 11:01:14 CST
 ## 🔗Generated File Link
 <!-- Generated File Link --> [View Generated File](https://raw.githubusercontent.com/ningyufeng651/Collect-IPTV/refs/heads/main/best_sorted.m3u)
 
